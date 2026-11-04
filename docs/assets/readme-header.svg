@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 140" width="640" height="140">
+  <defs>
+    <linearGradient id="rbGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF4B6E"/>
+      <stop offset="25%" stop-color="#FF9F43"/>
+      <stop offset="50%" stop-color="#FECA57"/>
+      <stop offset="75%" stop-color="#1DD1A1"/>
+      <stop offset="100%" stop-color="#54A0FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="140" rx="18" fill="#0F172A"/>
+  <!-- Icon -->
+  <g transform="translate(24, 10)">
+    <path d="M 18 68 A 42 42 0 0 1 102 68" fill="none" stroke="url(#rbGrad)" stroke-width="7" stroke-linecap="round"/>
+    <path d="M 57 66 C 42 42, 18 48, 22 70 C 24 80, 44 84, 57 76 Z" fill="#FF6B6B"/>
+    <path d="M 57 78 C 43 82, 30 92, 37 103 C 43 110, 54 100, 58 86 Z" fill="#FF9F43"/>
+    <path d="M 63 66 C 78 42, 102 48, 98 70 C 96 80, 76 84, 63 76 Z" fill="#54A0FF"/>
+    <path d="M 63 78 C 77 82, 90 92, 83 103 C 77 110, 66 100, 62 86 Z" fill="#1DD1A1"/>
+    <rect x="58" y="56" width="4" height="34" rx="2" fill="#F8FAFC"/>
+  </g>
+  <!-- Title -->
+  <text x="152" y="66" font-family="system-ui, -apple-system, sans-serif" font-size="30" font-weight="800" fill="#F8FAFC">Rainbow Butterfly Model</text>
+  <text x="152" y="96" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="500" fill="#94A3B8">Strategize with a Rainbow. Execute with a Butterfly.</text>
+</svg>

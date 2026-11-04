@@ -1,0 +1,12 @@
+{
+  "name": "rbm",
+  "displayName": "Rainbow Butterfly Model",
+  "version": "1.0.0",
+  "description": "Calibrated Business Mentor (Rainbow) & Business Coach (Butterfly) subagents for strategic commercial logic, offer stress-testing, focus protection, and daily accountability.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Run /rbm-calibrate to set up or recalibrate my Rainbow Butterfly business profile and accountability ledger",
+    "Rainbow Butterfly it! Stress-test this business idea and turn it into an accountable action plan",
+    "Call Butterfly for my daily focus check-in and accountability review against my open commitments"
+  ]
+}
